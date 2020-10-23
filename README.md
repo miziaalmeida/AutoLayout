@@ -6,4 +6,4 @@ Aula sobre AutoLayout
 
 ### Preview:
 
-![img](https://imgur.com/a/nUCSnwx)
+![img](https://raw.githubusercontent.com/miziaalmeida/AutoLayout/main/img1.png)
