@@ -6,5 +6,5 @@ Aula sobre AutoLayout
 
 ### Preview:
 
-![img](//raw.githubusercontent.com/miziaalmeida/AutoLayout/main/img1.png  =50x50)
+<img src="https://raw.githubusercontent.com/miziaalmeida/AutoLayout/main/img1.png" alt="Img1" width="250"/>
 
