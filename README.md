@@ -6,4 +6,4 @@ Aula sobre AutoLayout
 
 ### Preview:
 
-![](img/img1.png)
+![Screenshot](/Users/mizialima/Desktop/img1.png)
