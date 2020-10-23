@@ -6,4 +6,4 @@ Aula sobre AutoLayout
 
 ### Preview:
 
-![Screenshot](/Users/mizialima/Desktop/img1.png)
+![img](https://imgur.com/a/nUCSnwx)
